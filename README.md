@@ -43,6 +43,6 @@ I’m a backend-first engineer who bridges clean system design with frontend usa
 ---
 
 ## Links
-- **GitHub:** [your GitHub profile URL]
-- **LinkedIn:** [your LinkedIn URL]
-- **Email:** [your-email@example.com]
+
+- **LinkedIn:** [https://www.linkedin.com/in/mohd-saquib-271957354/]
+- **Email:** [mohdsaquib619@gmail.com]
